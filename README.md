@@ -4,3 +4,5 @@ Users can create support tickets, view them, add comments, and update ticket sta
 Tickets are not automatically deleted after resolution. Instead, they are marked as CLOSED to maintain history and records, which follows real-world industry practices. Tickets can be deleted manually if required.
 
 The backend runs on Express with MongoDB, and the frontend communicates using the Fetch API.
+
+<img width="953" height="512" alt="Image" src="https://github.com/user-attachments/assets/5e4766cb-b221-4cbb-9fc1-3ce59f0c3c9a" />
